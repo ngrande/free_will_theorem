@@ -1,0 +1,39 @@
+graph "" {
+	graph [fontname=vazir];
+	node [fontname=vazir];
+	edge [fontname=vazir];
+
+	n1 [label="1000", shape=none];
+	z1 [label="+ Z -", shape="square"];
+	z2 [label="+ Z -", shape="square"];
+	z3 [label="+ Z -", shape="square"];
+	z4 [label="+ Z -", shape="square"];
+	z5 [label="+ Z -", shape="square"];
+	x1 [label="+ X -", shape="square"];
+	x2 [label="+ X -", shape="square"];
+	
+	n2 [label="125", shape=none];
+	n3 [label="125", shape=none];
+	n4 [label="125", shape=none];
+	n5 [label="125", shape=none];
+	n6 [label="125", shape=none];
+	n7 [label="125", shape=none];
+	n8 [label="125", shape=none];
+	n9 [label="125", shape=none];
+
+	n1 -- z1;
+	z1 -- x1 [label="500",color=orangered];
+	z1 -- x2 [label="500",color=blue];
+	x2 -- z2 [label="250",color=orangered];
+	x2 -- z3 [label="250",color=blue];
+	x1 -- z4 [label="250",color=orangered];
+	x1 -- z5 [label="250",color=blue];
+	z2 -- n2 [color=orangered];
+	z2 -- n3 [color=blue];
+	z3 -- n4 [color=orangered];
+	z3 -- n5 [color=blue];
+	z4 -- n6 [color=orangered];
+	z4 -- n7 [color=blue];
+	z5 -- n8 [color=orangered];
+	z5 -- n9 [color=blue];
+}

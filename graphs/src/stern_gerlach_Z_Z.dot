@@ -1,0 +1,22 @@
+graph "" {
+	graph [fontname=vazir];
+	node [fontname=vazir];
+	edge [fontname=vazir];
+
+	n1 [label="1000", shape=none];
+	z1 [label="+ Z -", shape="square"];
+	z2 [label="+ Z -", shape="square"];
+	z3 [label="+ Z -", shape="square"];
+	
+	n2 [label="0", shape=none];
+	n3 [label="500", shape=none];
+	n4 [label="500", shape=none];
+	n5 [label="0", shape=none];
+	n1 -- z1;
+	z1 -- z2 [label="500",color=darkorange];
+	z1 -- z3 [label="500",color=blue];
+	z3 -- n2 [color=darkorange];
+	z3 -- n3 [color=blue];
+	z2 -- n4 [color=darkorange];
+	z2 -- n5 [color=blue];
+}

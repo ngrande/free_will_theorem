@@ -1,0 +1,10 @@
+graph axioms {
+	graph [fontname=vazir];
+	node [fontname=vazir];
+	edge [fontname=vazir];
+
+	node [shape=circle,color=orangered,style=filled,fontcolor=white]; Mars;
+	node [shape=circle,color=blue,style=filled,fontcolor=white]; Earth;
+
+	Earth -- Mars [label="transmit information at the speed of light\n3min",labeldistance=20];
+}
