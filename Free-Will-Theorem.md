@@ -62,3 +62,4 @@ Let us remember, information would require at least 3 minutes to go from Earth t
 
 It is not possible for any information to be transferred fast enough between the two particles (due to the vast distance) it is impossible for them to synchronize by exchange of information. Yet they still give the same result and this result is not determined until we measure.
 
+Hence the particle does not rely on any events that happened before - no determination - and it is independent of the location, the choice is just made up on the spot at the moment of measurement; until then the particle did not decide what state it is in. This is the free will exercised by the particle.
