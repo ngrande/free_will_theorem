@@ -10,7 +10,7 @@ Later they revised (or strengthened the theorem) by replacing __FIN__ with __MIN
 
 ### FIN
 
-FIN roughly speaking stands for finite. It is based on the theory (stronger word her?!) that information can not travel faster than the speed of light (299792458 m/s; approximately 300000 km/s).
+FIN roughly speaking stands for _finite_. It is based on the theory (stronger word her?!) that information can not travel faster than the speed of light (299792458 m/s; approximately 300000 km/s).
 
 So the propagation of information is always bound to be at a maximum speed (the speed of light), for example when transferring any kind of information from planet Earth to planet Mars it would take just around 3 minutes to reach its destiny.
 
@@ -22,7 +22,7 @@ In quantum mechanics and particle physics __spin__ is an intrinsic form of angul
 
 This spin component when squared can be described with a set of three 1s and 0s; whereas it will _always_ have two 1s and one 0, thus it is always a permutation of (1,1,0) (i.e. (1,0,1) or (0,1,1)).
 
-_this part needs some more explanation - i don’t understand where this 101 rule comes from_
+_this part needs some more explanation - i don’t understand where this 101 rule comes from and is it really required for my explanation here? needs to be explained why it is no matter which axis gets measured later_
 
 The spin of the particle is not determined until we actually measure it; this can be explained with the __Stern-Gerlach experiment__ ([Medium](https://medium.com/@notaredpanda/the-essence-of-quantum-mechanics-part-1-measurement-and-spin-cec98216c8)).
 Briefly explained: 
